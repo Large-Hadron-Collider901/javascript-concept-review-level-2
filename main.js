@@ -92,8 +92,8 @@ const exercise5 = () => {
 }
 
 const main = () => {
-    exercise1('As A Man Thinketh In His Heart, So Shall Be');
-    exercise2('allderdice');
+    exercise1('as a man thinketh in his heart, so shall be');
+    exercise2('homunculus');
     exercise3();
     exercise4([2, 8, 4, 6, 4, 9, 2], 4);
     exercise5();
